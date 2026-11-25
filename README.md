@@ -10,7 +10,7 @@ A simple Python script that generates secure random passwords.
 
 ## Usage
 
-python main.py
+python main.py (or python3 main.py) 
 
 ## Technologies
 
